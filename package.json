@@ -1,0 +1,13 @@
+{
+  "name": "skillshare",
+  "version": "1.0.0",
+  "description": "**SkillShare** is a full-stack web application that connects users through mutual skill interests, enabling them to showcase their expertise, identify learning opportunities, and build meaningful connections through a comprehensive friend-request system. The platform is designed to facilitate skill-sharing through online mediums like chat and video calls.",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm install --prefix backend && npm install --prefix frontend && npm run build --prefix frontend",
+    "start": "npm run start --prefix backend"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
