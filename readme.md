@@ -69,8 +69,8 @@
 - **PostCSS + Autoprefixer** - CSS processing
 
 ### Deployment
-- **Frontend**: [Add your deployment platform - Netlify/Vercel]
-- **Backend**: [Add your deployment platform - Render/Railway]
+- **Frontend**: Netlify/Vercel
+- **Backend**: Render/Railway
 
 ## 🛠️ Installation & Setup
 
